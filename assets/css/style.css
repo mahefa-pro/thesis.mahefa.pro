@@ -1,0 +1,28 @@
+
+.HeaderNav {
+    font-family: CMB;
+    margin-top: 30px;
+}
+.HeaderNav .navigation-header ul {
+    list-style: none;
+    text-align: center;
+}
+.HeaderNav .navigation-header ul li {
+    display: inline;
+}
+.HeaderNav .navigation-header ul li:not(:first-child) {
+    margin-left: 15px;
+    padding-left: 15px;
+    border-left: 1px solid #bbb;
+}
+/* .HeaderNav .navigation-header ul li::before {
+    content: "|";
+} */
+
+.HeaderNav .navigation-header ul li a{
+    text-decoration: none;
+    color: black;
+}
+.HeaderNav .navigation-header ul li:hover a{
+    color: blue;
+}
