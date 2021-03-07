@@ -8,7 +8,7 @@
 
 # ---
 layout: default
-title: PhD Thesis Studies
+title: Thesis Contents Studies
 creator: Mahefa Abel
 date: March 2021
 abstract: This is a website for expose my studies as PhD works. [Work in progress]
