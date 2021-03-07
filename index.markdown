@@ -11,7 +11,7 @@ layout: default
 title: PhD Thesis Studies
 creator: Mahefa Abel
 date: March 2021
-abstract: This is a website for expose my studies as PhD works. I would like to finish the content one day.
+abstract: This is a website for expose my studies as PhD works. [Work in progress]
 ---
 <div>
     <p class="Section">1 &ensp; Introduction</p>
