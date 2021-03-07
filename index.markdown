@@ -17,13 +17,13 @@ abstract: This is a website for expose my studies as PhD works. I would like to 
     <p class="Section">1 &ensp; Introduction</p>
     <div class="BodyText">
         <p>
-            Oportunum est, ut arbitror, explanare nunc causam, quae ad exitium praecipitem Aginatium inpulit iam inde a priscis maioribus nobilem, ut locuta est pertinacior fama. nec enim super hoc ulla documentorum rata est fides.
+            Multi-agent systems is a subfield of Distributed Artificial Intelligence that has experienced rapid growth because of the flexibility and the intelligence available solve distributed problems. 
         </p>
         <p>
-            Ibi victu recreati et quiete, postquam abierat timor, vicos opulentos adorti equestrium adventu cohortium, quae casu propinquabant, nec resistere planitie porrecta conati digressi sunt retroque concedentes omne iuventutis robur relictum in sedibus acciverunt.
+            In this chapter, a brief survey of multi-agent systems has been presented. These encompass different attributes such as architecture, communication, coordination strategies, decision making and learning abilities. 
         </p>
         <p>
-            Post hoc impie perpetratum quod in aliis quoque iam timebatur, tamquam licentia crudelitati indulta per suspicionum nebulas aestimati quidam noxii damnabantur. quorum pars necati, alii puniti bonorum multatione actique laribus suis extorres nullo sibi relicto praeter querelas et lacrimas, stipe conlaticia victitabant, et civili iustoque imperio ad voluntatem converso cruentam, claudebantur opulentae domus et clarae.
+            The goal of this chapter is to provide a quick reference to assist in the design of multi-agent systems and to highlight the merit and demerits of the existing methods.
         </p>
     </div>
 <div>
